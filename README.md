@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/KumarTeja751/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144947756/5cc212ec-c10f-4bcd-bcaa-0e2fa518b330)
+![image](https://github.com/KumarTeja751/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144947756/2badb9cb-2b09-47e3-863c-07fe33cffa7e)
+
 
 ### Name: KUMARTEJA NARAMALA
 ### Register Number: 23003525
